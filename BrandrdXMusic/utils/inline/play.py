@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/its_damiann"
+                text="𝘿𝙖𝙢𝙞𝙖𝙣❤‍🩹🌙", url=f"https://t.me/its_damiann"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/about_tosuu"
+                text="𝙏𝙊𝙎𝙐❤‍🩹", url=f"https://t.me/about_tosuu"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/its_damiann"
+                text="𝘿𝙖𝙢𝙞𝙖𝙣❤‍🩹🌙", url=f"https://t.me/its_damiann"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/about_tosu"
+                text="𝙏𝙊𝙎𝙐❤‍🩹", url=f"https://t.me/about_tosu"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/its_damiann"
+                text="𝘿𝙖𝙢𝙞𝙖𝙣❤‍🩹🌙", url=f"https://t.me/its_damiann"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/about_tosuu"
+                text="𝙏𝙊𝙎𝙐❤‍🩹", url=f"https://t.me/about_tosuu"
             ),
         ],
 
